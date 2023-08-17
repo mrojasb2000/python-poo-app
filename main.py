@@ -1,6 +1,6 @@
 from celular import Celular
 
-samsungA32 = Celular("Samsung", "A32")
+samsungA32 = Celular("Samsung")
 appleIphone15 = Celular("Apple", "Iphone 15")
 
 print(samsungA32.marca)
